@@ -1,10 +1,4 @@
-//
-//  ViewController.swift
-//  MyTextview
-//
-//  Created by Kauthar Al-Mottahar on 6/13/16.
-//  Copyright © 2016 Kauthar Al-Mottahar. All rights reserved.
-//
+
 
 import UIKit
 
